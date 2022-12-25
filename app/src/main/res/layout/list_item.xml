@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Single item of list view-->
+<TextView
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android1:id="@+id/label"
+    android1:layout_height="fill_parent"
+    android1:layout_width="fill_parent"
+    android1:padding="10dp"
+    android1:textSize="16dp"
+    android1:textStyle="bold"/>
